@@ -1,0 +1,61 @@
+ /* #navbar .logo{
+    float: none;
+    text-align: center;
+} 
+ #navbar ul,#navbar ul li{
+    float: none;
+    text-align: center;
+    border-bottom: 1px gray dotted;
+}     */
+
+
+
+/* Home-Info */
+
+#home-info .info-img {
+    display: none;
+}
+
+#home-info .info-content {
+    float: none;
+    width: 100%;
+}
+
+/* about HB */
+
+
+    
+
+
+/* box */
+
+#features {
+    display: flex;
+    flex-direction: column;
+}
+
+.box {
+    width: 100%;
+    padding: 10px 0px;
+}
+
+/* about */
+
+/* .info-container {
+    display: block;
+    padding-left: 30px;
+} */
+
+.info-heading {
+    margin: 10px 20px;
+
+}
+
+
+.guest-info {
+    display: flex;
+    flex-direction: column;
+    margin: 10px 20px;
+    overflow: hidden;
+    height: auto;
+}
